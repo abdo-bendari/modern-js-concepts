@@ -1,11 +1,15 @@
 # 🧠 Modern JavaScript Guide — Part 1  
 
-![Code Preview](./code.png)
+<p align="center">
+  <kbd>
+    <img src="./code.png" alt="Code Preview" width="800"/>
+  </kbd>
+</p>
 
 This repository documents my journey through learning **Modern JavaScript** — step by step — with clear, simple examples and explanations.  
 Each concept is written in a practical way to help others understand how and why it works.  
 
-> 📘 Currently covered: From **Template Literals & Template Strings** up to **Nested Destructuring**  
+> 📘 Currently covered: From **Template Literals & Template Strings** up to **Nested Destructuring**
 
 ---
 
