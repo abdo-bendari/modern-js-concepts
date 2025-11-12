@@ -1,5 +1,7 @@
 # 🧠 Modern JavaScript Guide — Part 1  
 
+![Code Preview](./code.png)
+
 This repository documents my journey through learning **Modern JavaScript** — step by step — with clear, simple examples and explanations.  
 Each concept is written in a practical way to help others understand how and why it works.  
 
