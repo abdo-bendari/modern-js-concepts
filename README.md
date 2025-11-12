@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="./code.png" target="_blank">
-    <img src="./code.png" alt="Code Preview" width="300" style="border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.2);" />
+    <img src="./code.png" alt="Code Preview" width="120" height="120" style="border-radius: 50%; object-fit: cover; box-shadow: 0 2px 10px rgba(0,0,0,0.2);" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@ I created this repository to:
 
 ## 💻 How to Use
 
-You can clone or explore the repository directly on GitHub:  
+Clone the repository:
 
 ```bash
 git clone https://github.com/abdo-bendari/modern-js-guide.git
