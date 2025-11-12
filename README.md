@@ -1,9 +1,9 @@
 # 🧠 Modern JavaScript Guide — Part 1  
 
 <p align="center">
-  <kbd>
-    <img src="./code.png" alt="Code Preview" width="800"/>
-  </kbd>
+  <a href="./code.png" target="_blank">
+    <img src="./code.png" alt="Code Preview" width="300" style="border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.2);" />
+  </a>
 </p>
 
 This repository documents my journey through learning **Modern JavaScript** — step by step — with clear, simple examples and explanations.  
